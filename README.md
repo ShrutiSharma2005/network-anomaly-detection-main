@@ -157,7 +157,7 @@ This project can be used as:
 - Experience with full ML lifecycle
 - Model evaluation and result analysis
 
----
+DATA LINK https://www.kaggle.com/datasets/kaiser14/network-anomaly-dataset
 
 
 ## ✅ Project Status
